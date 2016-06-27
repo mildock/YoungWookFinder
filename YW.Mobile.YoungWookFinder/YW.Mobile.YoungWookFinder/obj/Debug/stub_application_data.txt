@@ -1,0 +1,2 @@
+android.app.Application
+YW.Mobile.YoungWookFinder.YW.Mobile.YoungWookFinder
